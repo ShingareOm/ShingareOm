@@ -20,6 +20,10 @@ I'm a passionate developer with expertise in ethical hacking, web development, a
 - A fun and interactive website featuring Marathi jokes.  
   [Explore it](https://github.com/ShingareOm/Tell-me-a-joke)
 
+### Joke Genrator "My Contribution"
+- Joke Generator: A website that generates jokes based on the tags selected by the user.
+  [Contributed here](https://github.com/Atharva-Shinde/joke-generator.git)
+
 ## Cool Features
 
 - 💻 Ethical Hacker: Passionate about exploring cybersecurity and creating secure solutions.
