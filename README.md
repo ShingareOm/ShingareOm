@@ -8,6 +8,10 @@ I'm a passionate developer with expertise in ethical hacking, web development, a
 - A comprehensive bank management system with face recognition capabilities.  
   [Check it out](https://github.com/ShingareOm/BankManagementSystem-FaceReco)
 
+### LinkedListImplementaion-CLanguageProject
+- This C project implements a simple singly linked list data structure for managing a list of integers. The program provides an interactive user interface that allows users to perform basic operations on the linked list, such as inserting elements at the beginning, in the middle, and at the end, as well as displaying the list. The project emphasizes the importance of proper memory management and serves as a beginner-friendly example of working with linked lists in C.🚀  
+  [Check it out](https://github.com/ShingareOm/LinkedListImplementaion-CLanguageProject)
+
 ### SwapTwoNumbers100Methods
 - SwapTwoNumbers100Methods is a collaborative repository dedicated to exploring and documenting 100 unique methods for swapping two numbers. Swapping numbers is a fundamental operation in programming, and this repository aims to go beyond traditional approaches by encouraging contributors to think outside the box and discover new, creative solutions.
   [Explore it](https://github.com/ShingareOm/SwapTwoNumbers100Methods)
