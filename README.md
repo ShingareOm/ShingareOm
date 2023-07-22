@@ -5,7 +5,7 @@ I'm a passionate developer with expertise in ethical hacking, web development, a
 ## Projects
 
 ### Business Calculator 
-- This WebApp project implements the design of calculator designed by Mr. Pravin sir. This project is implemented by me and my beat friend. 
+- This WebApp project implements the design of calculator designed by Mr. Pravin sir. This project is implemented by me and my friend. 
   [Check it out our mutual project](https://github.com/ShingareOm/BusinessCalculator)
 
 ### Bank Management System with Face Recognition
