@@ -4,6 +4,10 @@ I'm a passionate developer with expertise in ethical hacking, web development, a
 
 ## Projects
 
+### Java Language Compiler 
+- Java Language Compiler is a simple C program that automates the process of compiling and running Java programs. It takes the file name of a Java source file as input, compiles it using the `javac` command, and then runs the compiled Java program using the `java` command.
+  [Explore it](https://github.com/ShingareOm/JavaLanguageCompiler)
+
 ### Business Calculator 
 - This WebApp project implements the design of calculator designed by Mr. Pravin sir. This project is implemented by me and my friend. 
   [Check it out our mutual project](https://github.com/ShingareOm/BusinessCalculator)
