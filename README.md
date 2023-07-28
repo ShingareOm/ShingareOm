@@ -4,6 +4,10 @@ I'm a passionate developer with expertise in ethical hacking, web development, a
 
 ## Projects
 
+### HTML Code Runner 
+- This C program named HtmlCodeRunner-LocalHostOpner.c starts a Python HTTP server in the background, serves files from the current directory, and opens the server's URL in the default web browser.
+  [Explore it](https://github.com/ShingareOm/HtmlCodeRunner-LocalHostOpner)
+
 ### Java Language Compiler 
 - Java Language Compiler is a simple C program that automates the process of compiling and running Java programs. It takes the file name of a Java source file as input, compiles it using the `javac` command, and then runs the compiled Java program using the `java` command.
   [Explore it](https://github.com/ShingareOm/JavaLanguageCompiler)
