@@ -60,6 +60,9 @@ I'm an aspiring developer who loves to solve complex problems. My skills span ac
 
 🐦 Twitter: [@omshingare120](https://twitter.com/omshingare120)  
 📸 Instagram: [@om_shingare_](https://www.instagram.com/om_shingare_)  
-☕ Buy Me a Coffee: [buymeacoffee.com/Omshingare](https://www.buymeacoffee.com/Omshingare)
+☕ Buy Me a Coffee: [buymeacoffee.com/Omshingare](https://www.buymeacoffee.com/Omshingare) 
+
+🔗 LinkedIn : [LinkedIn](https://www.linkedin.com/in/shingareom)
+
 
 Feel free to reach out if you have any questions, project ideas, or just want to connect. Let's build an exciting future together! 🌟
