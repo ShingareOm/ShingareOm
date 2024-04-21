@@ -10,7 +10,7 @@ I'm an aspiring developer who loves to solve complex problems.
 
 🐦 Twitter: [@omshingare120](https://twitter.com/omshingare120)  
 📸 Instagram: [@om_shingare_](https://www.instagram.com/om_shingare_)  
-▶️ Youtube : [Om Shingare](https://www.youtube.com/@om_shingare_) 
+▶️ Youtube : [Om Shingare](https://www.youtube.com/@om_shingare_)    
 🔗 LinkedIn : [LinkedIn](https://www.linkedin.com/in/shingareom)
 
 
