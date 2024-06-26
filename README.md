@@ -8,7 +8,7 @@ I'm an aspiring developer who loves to solve complex problems.
 
 ## Let's Connect
 
-▶️ Youtube : [Om Shingare](https://www.youtube.com/@@shingareom)    
+▶️ Youtube : [Om Shingare](https://www.youtube.com/@shingareom)    
 🔗 LinkedIn : [LinkedIn](https://www.linkedin.com/in/shingareom)
 
 
