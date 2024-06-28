@@ -53,16 +53,17 @@
 <a href="https://omshingare.me" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/shingareom" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.youtube.com/@ShingareOm" target="_blank"><img alt="" src="https://img.shields.io/badge/ShingareOm%20-000?style=for-the-badge&logo=youtube&logoColor=white" style="vertical-align:center" /></a>
-<a href="mailto:bewithu.aj@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
+<a href="mailto:omshingare@duck.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
 </p>
 
 <br />
 
+---
 <p align="center"> 
  🆃🅴🅲🅷 🆂🆃🅰🅲🅺<br>
   </p>
 
----
+
 
 <p align="center">
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
