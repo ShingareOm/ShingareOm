@@ -1,6 +1,6 @@
 <p align="center">
     <a href="http://" target="_blank">
-        <img src="https://github.com/oraclebrain/oraclebrain/blob/main/wth-smile.gif?raw=true" width="120" height="120" alt="Description of the image">
+        <img src="https://github.com/ShingareOm/ShingareOm/blob/main/wth-smile.gif?raw=true" width="120" height="120" alt="Description of the image">
     </a>
 </p>
 
