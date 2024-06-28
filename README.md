@@ -25,15 +25,7 @@
  🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
   <img src="https://profile-counter.glitch.me/ShingareOm/count.svg"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShingareOm&theme=shadow_blue&layout=compact"width="48%"/> 
-</p>  
-
-<!---
-<a href="https://github.com/ShingareOm/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShingareOm&repo=github-readme-stats&theme=shadow_green" />
-</a>
------------>
+---
 <p align="center">
   <a href="https://github.com/ShingareOm?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ShingareOm&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@ShingareOm's github-readme-stats">
@@ -137,21 +129,20 @@
 
 
 ---
-``` java
-// Check if the code is functioning correctly
-if (isCodeWorking) {
-    // Continuously improve the code quality until it reaches perfection
-    while (codeQuality < perfection) {
-        codeQuality++; // Increment code quality
-    }
+```
+// Hunt bugs tirelessly until perfection is found
+while (bugsExist) {
+    findBugs(); // Uncover vulnerabilities
+    exploit(); // Safeguard against threats
+    improveSecurity++; // Enhance protection
 }
 
-while(alive) {
-  eat();
-  sleep();
-  code();
+while (challengeEndures) {
+    learn(); // Stay ahead in the cybersecurity game
+    adapt(); // Evolve defenses
+    innovate(); // Redefine security strategies
 }
-// - Om Shingare
+// - Anonymous Bug Hunter
 ```
 
 <hr />
