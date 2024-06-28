@@ -129,7 +129,7 @@
 
 
 ---
-```
+``` scss
 // Hunt bugs tirelessly until perfection is found
 while (bugsExist) {
     findBugs(); // Uncover vulnerabilities
@@ -142,7 +142,7 @@ while (challengeEndures) {
     adapt(); // Evolve defenses
     innovate(); // Redefine security strategies
 }
-// - Anonymous Bug Hunter
+// - Anonymous PenTester (Om Shingare)
 ```
 
 <hr />
