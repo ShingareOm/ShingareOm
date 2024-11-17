@@ -21,9 +21,8 @@ I'm **[Om Shingare](https://www.youtube.com/@shingareom)**, a hacker & Security 
 
 👉 Still Learning Bug Hunting & Hardware (ESP32 / ESP8266 / 8086 Microprocessor)
 
-👉 Currently Learning Mobile Pentesting & Web3
-
-`Updating:` Journey to Cybersecurity Specialist.
+👉 Currently Learning below things
+`ReactJS`: started at 12th Nov 2024 (Tho I Have already worked on projects)
 
 ---
 
